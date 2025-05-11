@@ -35,12 +35,12 @@ Click Here To View Live Demo Of The wesite :
 ## Screenshots :
 
 ### Home Page :
-![Home_Page](../Fitnest/Images/Home_page.png)
+![Home_Page](./Images/Home_page.png)
 
 
 ## Folder Structure 📁
 
-![Folder Structure](../Fitnest/Images/Folder_Structure.png)
+![Folder Structure](./Images/Folder_Structure.png)
 
 ## Contributors  🤝
 
