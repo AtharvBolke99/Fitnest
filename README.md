@@ -40,15 +40,14 @@ Click Here To View Live Demo Of The wesite :
 
 ## Folder Structure 📁
 
-![Folder Structure](./Images/Folder_Structure.png)
+![Folder Structure](./Images/folder.png)
 
 ## Contributors  🤝
 
-<a href="https://github.com/AtharvBolke99/Fitnest/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AtharvBolke99/Fitnest" />
+<a href="https://github.com/suraj0620/Fitnest/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=suraj0620/Fitnest" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
 
 
 
