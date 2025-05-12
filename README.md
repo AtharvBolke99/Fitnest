@@ -40,7 +40,7 @@ Click Here To View Live Demo Of The wesite :
 
 ## Folder Structure 📁
 
-![Folder Structure](./Images/Folder_structure.png)
+![Folder Structure](./Images/folder.png)
 
 ## Contributors  🤝
 
