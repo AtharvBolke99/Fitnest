@@ -4,7 +4,7 @@ A modern, responsive website designed to help users achieve their health and fit
 ## Live Demo 🚀
 
 Click Here To View Live Demo Of The wesite :
-[FitNest.in](#)
+[https://fitnest-in.netlify.app/](#)
 
 ## Table Of Contents 📌
 
