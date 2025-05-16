@@ -3,8 +3,8 @@ A modern, responsive website designed to help users achieve their health and fit
 
 ## Live Demo 🚀
 
-Click Here To View Live Demo Of The wesite :[Fitnest.in](#)
->>>>>>> 3ace06633e8f339228918bb1e54d708fa80764bb
+Click Here To View Live Demo Of The wesite :[fitnestt.netlify.app/](FitNest.in)
+
 
 ## Table Of Contents 📌
 
